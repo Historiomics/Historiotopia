@@ -13,4 +13,8 @@
 * That is to say, the artist is working amidst all of the "exposed surfaces" of the Workspace; (only surfaces are "accessible" at any given moment in time, even something in the Archives, once exposed, is an outward-facing surface)
 * The artist essentially takes a "Snapshot" of the current state of the Historiotheque; ("Snapshot" or "Savepoint")
 * The Session is "saved", and put into the archive, with proper Documentation; (Documentation to be treated in its own section)
-* 
+* The HISTORIOTOPIA, then, is the three-dimensional configuration of the Workspace (Historiotheque) at any given moment in time;
+* The HISTORIOTOPIA is composed of all the outward-facing, exposed, SURFACES of the Workspace;
+* The HISTORIOTOPIA is what is effectively being Archived at any given time in the Session Management process;
+* After the DECLARATION OF NEW PRODUCTION-YEAR, the worker in the Art Operation or "ArtOps" begins with an Introduction To The Historiotheque, an introduction to the workspace;
+* This is important because the Declaration already gave forward-looking statements about the new Production-Year, for investors and other interested parties, so that they can have a "taste" or "preview" of what to expect to come out of the Laboratory in the period covered in the Declaration (Historiotheques are Laboratories, to be explained in its own section);
